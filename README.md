@@ -1,2 +1,2 @@
-# Shopping-page
-[🎀](https://cansuoztas.github.io/Shopping-page/)
+
+[🎀Shopping-page](https://cansuoztas.github.io/Shopping-page/)
